@@ -4,7 +4,12 @@ This repository includes projects from Data Wrangling (QBS 181) at Dartmouth Col
 
 ## Description of subdirectories
 
-Project 1: Data Wrangling of Demographics Table (SQL)
+### Project 1
+Data Wrangling of Demographics Table (SQL)
+### Project 2
+### Midterm
+### Final
+Project 1: 
 Project 2: Data Wrangling of Demographics, Conditions and TextMessages (SQL) 
 Midterm: Data Wrangling of Diabetes Data
 Final: Data Wrangling of Blood Pressure Data
