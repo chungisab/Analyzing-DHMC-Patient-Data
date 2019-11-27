@@ -6,9 +6,12 @@ This repository includes projects from Data Wrangling (QBS 181) at Dartmouth Col
 
 ### Project 1
 Data Wrangling of Demographics Table (SQL)
+
 ### Project 2
 Data Wrangling of Demographics, Conditions and TextMessages (SQL) 
+
 ### Midterm
-Data Wrangling of Diabetes Data
+This project cleaned the Diabetes dataset (DIQ_I) provided by the National Health and Nutrition Examination Survey. The dataset contained various problems (e.g., missing values, numeric columns stored as chars, etc.).
+
 ### Final
 Data Wrangling of Blood Pressure Data
