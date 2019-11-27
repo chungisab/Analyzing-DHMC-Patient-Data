@@ -14,4 +14,4 @@ This project cleaned demographics data from the Demographics, Conditions and Tex
 This project cleaned the Diabetes dataset (DIQ_I) provided by the National Health and Nutrition Examination Survey. The dataset contained various problems (e.g., missing values, numeric columns stored as chars, etc.), which were addressed and cleaned accordingly.
 
 ### Final
-This project investigated blood pressure data, obtaining patients' enrollment dates and calculating average Blood Pressure scores (1 or 0) over 12-week intervals. 
+This project investigated blood pressure data, obtaining patients' enrollment dates from demographics data (provided by the DHMC database) and calculating average Blood Pressure scores (1 or 0) over 12-week intervals. It also merged three datasets (Demographics, Conditions and TextMessages tables) to obtain the latest sent text dates.
