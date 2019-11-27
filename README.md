@@ -4,7 +4,7 @@ This repository includes projects from Data Wrangling (QBS 181) at Dartmouth Col
 
 ## Description of subdirectories
 
-Write description for each subdirectory (i.e. project) here...
-
-Reminder: Please do NOT include data, results or response to the assignment questions in this repository. Include R and SQL code only.
-
+Project 1: Data Wrangling of Demographics Table (SQL)
+Project 2: Data Wrangling of Demographics, Conditions and TextMessages (SQL) 
+Midterm: Data Wrangling of Diabetes Data
+Final: Data Wrangling of Blood Pressure Data
